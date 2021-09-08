@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-purple?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=ffffff)](https://golang.google.com/)
-[![](https://img.shields.io/badge/-C#-darkslategrey?style=flat-square&logo=Dotnet&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-C-darkslategrey?style=flat-square&logo=csharp&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/windows/win32/)
 
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
