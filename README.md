@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 #### IDE
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://www.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 
 #### Language
 [![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Java-217400?style=flat-square&logo=java&logoColor=ffffff)]
 
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
