@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 #### IDE
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://www.visualstudio.com/)
 
 #### Language
 [![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
