@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-MacOS-crimson?style=flat-square&logo=macos&logoColor=white)](https://developer.apple.com/cn/macos/)
 
 #### IDE
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/EDITOR-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-violet?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-IDEA-crimson?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-PyCharm-darkcyan?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
