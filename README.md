@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-sublime-lightseagreen?style=flat-square&logo=sublimetext&logoColor=ffffff)](https://www.sublimetext.com/)
 
 #### Language
-[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=social&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
+[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=plastic&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-purple?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=ffffff)](https://golang.google.com/)
