@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 [![](https://img.shields.io/badge/-.Net%20Framework%204%2B-blue?style=flat-square&logo=Dotnet&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 [![](https://img.shields.io/badge/-Qt-darkgreen?style=flat-square&logo=qt&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-Flutter-firebrick?style=flat-square&logo=flutter&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 
 #### Tools
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
