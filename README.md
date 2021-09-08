@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 #### Language
 [![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=plastic&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Java-purple?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=ffffff)](https://golang.google.com/)
-[![](https://img.shields.io/badge/-C%20sharp-darkslategrey?style=flat-square&logo=csharp&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/windows/win32/)
-[![](https://img.shields.io/badge/-JavaScript-purple?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Java-purple?style=plastic&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Golang-blue?style=plastic&logo=go&logoColor=ffffff)](https://golang.google.com/)
+[![](https://img.shields.io/badge/-C%20sharp-darkslategrey?style=plastic&logo=csharp&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-JavaScript-purple?style=plastic&logo=javascript&logoColor=ffffff)](https://www.java.com/)
 
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
