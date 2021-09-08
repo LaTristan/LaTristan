@@ -38,8 +38,9 @@ Here are some ideas to get you started:
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 [![](https://img.shields.io/badge/-.Net%20Framework%204%2B-blue?style=flat-square&logo=Dotnet&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-Qt-blue?style=flat-square&logo=qt&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 
 #### Tools
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white)](https://www.getpostman.com/)
