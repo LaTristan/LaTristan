@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Java-purple?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=ffffff)](https://golang.google.com/)
 [![](https://img.shields.io/badge/-C%20sharp-darkslategrey?style=flat-square&logo=csharp&logoColor=ffffff)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-JavaScript-purple?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.java.com/)
 
 #### Software Framework
 [![](https://img.shields.io/badge/-Win32-blue?style=flat-square&logo=Windows&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 [![](https://img.shields.io/badge/-.Net%20Framework%204%2B-blue?style=flat-square&logo=Dotnet&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
 [![](https://img.shields.io/badge/-Qt-darkgreen?style=flat-square&logo=qt&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
-[![](https://img.shields.io/badge/-Flutter-firebrick?style=flat-square&logo=flutter&logoColor=white)](https://docs.microsoft.com/zh-cn/windows/win32/)
+[![](https://img.shields.io/badge/-Flutter-firebrick?style=flat-square&logo=flutter&logoColor=white)](https://www.flutter.dev/)
 
 #### Tools
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
