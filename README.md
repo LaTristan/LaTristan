@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--![info](https://github-readme-stats.vercel.app/api?username=LaTristan&show_icons=true)-->
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/-Ubuntu-maroon?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Ubuntu-maroon?style=flat-square&logo=ubuntu&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-MacOS-crimson?style=flat-square&logo=macos&logoColor=white)](https://developer.apple.com/cn/macos/)
 
 #### IDE
