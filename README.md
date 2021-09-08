@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <!--![info](https://github-readme-stats.vercel.app/api?username=LaTristan&show_icons=true)-->
 #### Platform
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Ubuntu-Server-maroon?style=flat-square&logo=ubuntu&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-MacOS-crimson?style=flat-round&logo=macos&logoColor=white)](https://developer.apple.com/cn/macos/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Ubuntu-Server-maroon?style=flat&logo=ubuntu&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-MacOS-crimson?style=flat&logo=macos&logoColor=white)](https://developer.apple.com/cn/macos/)
 
 #### IDE
 [![](https://img.shields.io/badge/EDITOR-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-sublime-lightseagreen?style=flat-square&logo=sublimetext&logoColor=ffffff)](https://www.sublimetext.com/)
 
 #### Language
-[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
+[![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=social&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-purple?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=ffffff)](https://golang.google.com/)
