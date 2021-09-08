@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio-violet?style=flat-square&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/IDE-IDEA-crimson?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/IDE-PyCharm-dark-cyan?style=flat-square&logo=intellij-pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/IDE-PyCharm-darkcyan?style=flat-square&logo=intellij-pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 #### Language
 [![](https://img.shields.io/badge/-C/C%2B%2B-007396?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](http://gcc.gnu.org/)
