@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--![info](https://github-readme-stats.vercel.app/api?username=LaTristan&show_icons=true)-->
+[![Programming Languages](https://raw.githubusercontent.com/LaTristan/githubstatsreadmegenerator/master/generated/languages.svg)](https://lagmental.net/pages/notme.html)
 #### Platform
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-Server-maroon?style=flat&logo=ubuntu&logoColor=white)](https://www.linuxfoundation.org/)
